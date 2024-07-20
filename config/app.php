@@ -17,6 +17,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    'asset_url' => env('ASSET_URL','https://school-production-816e.up.railway.app'),
 
     /*
     |--------------------------------------------------------------------------
